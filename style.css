@@ -1,0 +1,50 @@
+html {
+    
+    background: radial-gradient(circle, rgb(35, 90, 67), white);
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    padding: 30px 20px 20px 20px;
+  }
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #b8dad4;
+    padding: 0 20px 20px 20px;
+    border: 3px solid #156057;
+  }
+  header {
+    padding: 30px 20px 20px 20px;
+  }
+  h1 {
+    font-size: 35px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #01463e;
+    text-shadow: 2px 2px 1px #131a19;
+  }
+  h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #01463e;
+    text-shadow: 2px 2px 1px #131a19;
+  }
+  p {
+    line-height: 1;
+    letter-spacing: 1px;
+    }
+    li {
+    font-size: 16px;
+    }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  footer {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 50px;
+  }
